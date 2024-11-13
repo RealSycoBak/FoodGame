@@ -41,26 +41,9 @@ The goal of the game is to catch as much falling food as possible while avoiding
    - The game ends when you miss three pieces of food.  
    - Your final score and high score will be displayed, and you can choose to play again.
 
-### Controls
-- **A:** Move Left  
-- **D:** Move Right  
-- **Mouse Click:** Restart the game after game over
-
----
-
-## Features
-- Multiple food types with unique point values and behavior.
-- Combo multiplier to increase score with consecutive catches.
-- Achievement system to reward high performance.
-- Smooth gameplay with difficulty scaling and power-ups.
-
----
-
 ## High Scores
 - Your highest score is saved in the `high_score.txt` file.
 - The game will track your best performance and display it at the end of each session.
-
----
 
 ## Requirements
 - Python 3.x
